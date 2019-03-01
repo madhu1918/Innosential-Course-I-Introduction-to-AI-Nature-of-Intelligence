@@ -1,0 +1,34 @@
+{
+    "activities": [],
+    "learningObjectives": [],
+    "overview": [
+        "In this course, Danko Nikolic brain scientists and AI inventor explains the fundamental of intelligence needed for everyone interested in creating ambitious AI solutions. What you do when things get tough? In the course, you will learn the differences between machine intelligence and human intelligence. You will understand why AI fails and when. AI does not have a narrowly limited working memory (a.k.a., short-term memory) but we humans do. How does our working memory make us more intelligent than machines? Why do we understand the world and machines don't? You will also learn fundamental theorems for machine learning and see how they apply to machine intelligence and human intelligence. After having learned that, you will be able to judge whether an ML project is too ambitious or is likely to succeed. You will be able to identify fundamental problems that plagued some of the ambitious AI projects in the past. You will understand why it is nearly impossible for machines to reach human levels of intelligence. Also, you will learn why some of the tricks in machine learning sometimes work and other times not. You will understand why it is so difficult to build self-driving cars.",
+        "The course offers fundamentals that you cannot find in any other course or a book. These fundamentals will be invaluable for your future work on ML and AI.<ul><li>This course explores the nature of intelligence, ranging from machines to the biological brain. Information provided in the course is useful when undergoing ambitious projects in machine learning and AI. It will help you avoid pitfalls in those projects.</li><li>What are the differences between the real brain and machine intelligence and how can you use this knowledge to prevent failures in your work? What are the limits of today's AI technology? How to assess early in your AI project whether it has chances of success?</li><li>What are the most fundamental mathematical theorems in machine learning and how they are relevant for your everyday work?</li></ul>"
+    ],
+    "short_description": "In this course Danko Nikolic a brain scientists and AI inventor explains the fundamental of intelligence nedded for everyone interested in creating ambitious AI solutions. What you do when things get tough? In the course you will learn the differences between machine intelligence and human intelligence. You will understand why AI fails and when. AI does not have a narrow limited working memory (a.k.a., short-term memory) but we humans do. How does our working memory make us more intelligent than machines? Why do we understand the world and machines don't? You will also learn fundamental theorems for machine learning and see how they apply to machine intelligence and human intelligence.",
+    "image": "intro_to_ai_and_nature_of_intelligence.png",
+    "instructors": [{
+    "name": "Dekno Nikolic",
+    "profile_url": "http://innosential.com/prof-danko/",
+    "image": "Dr. Danko Nikolic ex Max PLanck Institute, CDO savedroid.jpg"
+    }],
+    "title": "Course I: Introduction to AI & Nature of Intelligence",
+    "units": [
+        {
+            "activities": [
+                "Nature of Intelligence Lecture-1",
+                "Nature of Intelligence Lecture-2",
+                "Nature of Intelligence Lecture-3",
+                "Nature of Intelligence Lecture-4"
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors":[
+                "Denko Nikolic"
+            ],
+            "title": "Nature of Intelligence"
+        }
+    ]
+}
